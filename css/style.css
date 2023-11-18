@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #000000;
+  color: #444444;
 }
 
 a {
@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #73c5eb;
+  color: #dcb518;
   text-decoration: none;
 }
 
@@ -44,7 +44,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #a4aab4;
+  background: #37517e;
 }
 
 #preloader:before {
